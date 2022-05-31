@@ -40,10 +40,12 @@
 
 ## Λίστα προτεινόμενου εξοπλισμού *
 Για την αυτόματη διαχείριση συνθηκών του θερμοκηπίου
-1 x Raspberry Pi4 8GB							90 ευρώ
-1 x display case ή εναλλακτικά οθόνη + case				40-50 ευρώ	 
-1 x battery for Raspberry pi							20 ευρώ	
-1 x High Definition camera						 	60 ευρώ
+| Ποσότητα | Περιγραφή | Ενδειτικό Κόστος |
+| --- | --- | --- |
+| 1 | Raspberry Pi4 8GB | 90 ευρώ |
+| 1 | Display case ή εναλλακτικά οθόνη + case	| 40-50 ευρώ |	 
+| 1 | Battery for Raspberry pi |20 ευρώ	|
+| 1 | High Definition camera |60 ευρώ|
 Ενδεικτικό κόστος *
 200 - 210 ευρώ
 
